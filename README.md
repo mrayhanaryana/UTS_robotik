@@ -51,6 +51,8 @@ Berikut beberapa software yang menjadi rekomendasi penulis:
 
 Kali ini studi kasus yang dilakukan adalah robot akan bergerak pada bidang 2 dimensi untuk memperkirakan pose dari langkah selanjutnya menggunakan pengukuran kebisingan. Robot akan mengukur sudut relatif landmark dan jarak tempuh dengan sensor odometri.
 
+![image](https://symforce.org/docs/static/images/robot_2d_localization/problem_setup.png)
+
 Menurut studi kasus diatas tahapan yang akan dilakukan adalah:
 
 1. Import libraru symforce
