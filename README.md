@@ -47,7 +47,7 @@ Berikut beberapa software yang menjadi rekomendasi penulis:
 
 <h2 align="center">Contoh Studikasus</h2>
 
-###Untuk dokumentasi running code dapat dilihat [disini](https://github.com/mrayhanaryana/UTS_robotik/tree/main/kodingan/doc_%20pdf)
+### Untuk dokumentasi running code dapat dilihat [disini](https://github.com/mrayhanaryana/UTS_robotik/tree/main/kodingan/doc_%20pdf)
 
 
 
