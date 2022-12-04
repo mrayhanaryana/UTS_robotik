@@ -47,7 +47,7 @@ Berikut beberapa software yang menjadi rekomendasi penulis:
 
 <h2 align="center">Contoh Studi kasus</h2>
 
-### Untuk dokumentasi running code dapat dilihat [disini](https://github.com/mrayhanaryana/UTS_robotik/tree/main/kodingan/doc_%20pdf) atau [source code](https://github.com/mrayhanaryana/UTS_robotik/blob/main/kodingan/symforce.ipynb)
+### Untuk dokumentasi running code dapat dilihat [disini](https://github.com/mrayhanaryana/UTS_robotik/tree/main/kodingan/doc_%20pdf) atau [source code](https://github.com/mrayhanaryana/UTS_robotik/blob/main/kodingan/symforce-2D-example.ipynb)
 
 Kali ini studi kasus yang dilakukan adalah robot akan bergerak pada bidang 2 dimensi untuk memperkirakan pose dari langkah selanjutnya menggunakan pengukuran kebisingan. Robot akan mengukur sudut relatif landmark dan jarak tempuh dengan sensor odometri.
 
@@ -55,7 +55,7 @@ Kali ini studi kasus yang dilakukan adalah robot akan bergerak pada bidang 2 dim
 
 Menurut studi kasus diatas tahapan yang akan dilakukan adalah:
 
-1. Import libraru symforce
+1. Import librari symforce
 
 ```python
 import symforce.symbolic as sf
