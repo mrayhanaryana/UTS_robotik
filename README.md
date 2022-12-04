@@ -46,7 +46,7 @@ Berikut beberapa software yang menjadi rekomendasi penulis:
 - Dapat mengimplementasikan simbolik geometri dan juga tipe kamera dengan menggunakan operasi Lie Group
 
 <h2 align="center">Contoh Studikasus</h2>
-Untuk dokumentasi running code dapat dilihat [disini.](https://github.com/mrayhanaryana/UTS_robotik/blob/main/kodingan/symforce.ipynb) atau unduh versi pdf disini 
+<h3 align="center">Untuk dokumentasi running code dapat dilihat ![disini.](https://github.com/mrayhanaryana/UTS_robotik/blob/main/kodingan/symforce.ipynb)</h3>
 
 
 
