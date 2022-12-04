@@ -197,8 +197,8 @@ plot_solution(optimizer, result)
 
 #### Keterangan:
 * Bentuk lingkaran berwarna orange merepresentasikan `fixed landmarks`
- * Bentuk lingkaran biru merepresentasikan robot
- * Garis putus-putus merepresentasikan perhitungan bearing.
+ * Bentuk lingkaran biru merepresentasikan `robot`
+ * Garis putus-putus merepresentasikan `perhitungan bearing`
 
 
 <h1 align="center">Lampiran</h1>
