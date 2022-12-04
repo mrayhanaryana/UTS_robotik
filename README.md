@@ -20,6 +20,7 @@ Contoh dari implementasi symforce adalah:
 
 <h2 align="center">Spesifikasi Hardware</h2>
 Agar dapat menjalankan simulasi symforce secara optimal bertikut rekomendasi spesifikasi perangkat yang disarankan:
+
 - CPU 4 core
 - RAM 8 GB
 - Mem 50 GB
@@ -28,6 +29,7 @@ atau bisa juga menggunakan alternatif lain seperti [github codespace](https://gi
 
 <h2 align="center">Software yang terinstall</h2>
 Berikut beberapa software yang menjadi rekomendasi penulis:
+
 - Ubuntu 20.04 OS
 - Python 3.8+
 - Jupyter notebook
